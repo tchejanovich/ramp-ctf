@@ -1,4 +1,4 @@
-// Script used to obtain the URL:
+// Script used to get the URL:
 // ---------------------------------------
 // function scrap() {
 //     let resultUrl = '';
